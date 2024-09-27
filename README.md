@@ -1,2 +1,4 @@
 # BirthdayFiller
-Our Starter Repo for the project
+Authors: Mark Pirella, Adam Shaikh, Sahil Zafar
+
+
